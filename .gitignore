@@ -1,0 +1,54 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore logs and other generated files
+logs/
+*.log
+*.log.*
+*.log/
+*.tmp
+*.swp
+
+# Ignore environment-specific files
+.env
+.env.local
+.env.*.local
+
+# Ignore npm's debug log
+npm-debug.log*
+
+# Ignore yarn's lock file
+yarn.lock
+
+# Ignore Mac specific files
+.DS_Store
+
+# Ignore Visual Studio Code configuration files
+.vscode/
+
+# Ignore IntelliJ IDEA files
+.idea/
+
+# Ignore cache directories
+.cached/
+.cache/
+
+# Ignore compiled binaries
+*.db
+*.sqlite
+*.sqlite3
+*.log
+*.log.*
+*.class
+*.jar
+*.war
+*.ear
+*.db
+*.out
+*.log
+*.tmp
+
+# Ignore local configuration
+*.local
+
+.next/

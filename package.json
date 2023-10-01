@@ -1,0 +1,34 @@
+{
+  "name": "my-headless-template",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@wix/ecom": "^1.0.361",
+    "@wix/members": "^1.0.36",
+    "@wix/redirects": "^1.0.25",
+    "@wix/sdk": "^1.5.1",
+    "@wix/stores": "^1.0.96",
+    "js-cookie": "^3.0.5",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "devDependencies": {
+    "@types/js-cookie": "^3.0.4",
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "autoprefixer": "latest",
+    "eslint": "latest",
+    "eslint-config-next": "latest",
+    "postcss": "latest",
+    "tailwindcss": "latest",
+    "typescript": "latest"
+  }
+}
